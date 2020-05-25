@@ -1,0 +1,50 @@
+/********************************************** TAG SELECTORS ****************************************************/
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: Grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+embed {
+  padding-left: 3%;
+  padding-right: 3%
+}
+
+h1 {
+  color: #00909e;
+}
+
+h3 {
+  color: #66BFBF;
+  padding-left:3%;
+  padding-right:3%
+}
+
+nav {
+  padding-left:3%;
+  padding-right:3%;
+}
+p {
+  padding-left:3%;
+  padding-right:3%;
+}
+
+table {
+  border-spacing: 30px;
+  padding-left: 2%;
+}
+/********************************************** CLASS SELECTORS ****************************************************/
+.footer {
+  text-align: center;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+
+/********************************************** ID SELECTORS ****************************************************/
